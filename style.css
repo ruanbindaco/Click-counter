@@ -1,0 +1,9 @@
+h2{
+  position: relative;
+  text-align: center;
+}
+
+.center{
+  text-align: center;
+  margin: 0 auto;
+}
